@@ -66,4 +66,4 @@
 ## API Document
 > [EatMeUp - API Document](https://juy5437.gitbook.io/eatmeup/)
 ## Wiki
-> [EatMeUp - Wiki](https://github.com/codestates/EatMeUp/wiki)
+> [EatMeUp - Wiki](https://github.com/wookieOH/EatMeUp/wiki)
